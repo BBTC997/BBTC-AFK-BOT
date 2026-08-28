@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "puppy.aternos.host:26877",
+    "ip": "puppy.aternos.host",
     "port": 26877,
     "version": "1.21.1"
   },
