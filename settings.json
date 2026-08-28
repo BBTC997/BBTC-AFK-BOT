@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bbtcssuperserver.aternos.me",
+    "ip": "puppy.aternos.host:26877",
     "port": 26877,
     "version": "1.21.1"
   },
