@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "your consionce",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "bbtcssuperserver.aternos.me",
+    "port": 26877,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,10 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "go to the building area to make things and cheak out other cool things",
+        "Subscribe to Brannon Blanzy The Crazy on youtube!!!",
+        "go to the survival forest to play survival and buy stuff from the shop",
+        "go to www.youtube.com/@brannon1072"
       ]
     },
     "chat-log": true,
